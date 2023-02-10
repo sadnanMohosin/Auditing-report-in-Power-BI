@@ -1,7 +1,8 @@
 # Auditing-report-in-Power-BI
 
 
-[](https://github.com/sadnanMohosin/Auditing-report-in-Power-BI/blob/master/5.JPG)
+![](https://github.com/sadnanMohosin/Auditing-report-in-Power-BI/blob/master/5.JPG)
+
 
 In this power bi report I gathered following insights:
 
